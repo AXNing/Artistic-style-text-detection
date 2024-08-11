@@ -7,12 +7,14 @@ We collected 1,500 movie posters featuring various artistic-style titles to addr
 are in the training set and 400 in the testing set.
 ### Advantages
 ### Framework
+'''
 +--- test
 |   +--- gt
 |   +--- img
 +--- train
 |   +--- gt
 |   +--- img
+'''
 
 
 
