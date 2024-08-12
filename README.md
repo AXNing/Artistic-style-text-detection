@@ -1,5 +1,5 @@
 # **Artistic-style-text-detection**
-The Movie-Poster is available at [Movie-Poster](https://drive.google.com/file/d/1anlWPsCX-6aYhUDqC33SXRufcpPpjLE2/view?usp=drive_link).
+
 
 ## **Guidelines of the Movie-Poster Dataset**
 ### Summarize
@@ -26,11 +26,11 @@ Movie-Poster/
     ├── img/
     └── gt/
 ```
-###Download
+### Download
 The Movie-Poster is available at [Movie-Poster](https://drive.google.com/file/d/1anlWPsCX-6aYhUDqC33SXRufcpPpjLE2/view?usp=drive_link).
 
-###Visualization
-
+### Visualization
+<img src="https://github.com/biedaxiaohua/Artistic-style-text-detection/blob/main/visualization1.png" width="50%"/>
 
 
 
