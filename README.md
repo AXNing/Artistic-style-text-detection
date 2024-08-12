@@ -1,6 +1,5 @@
 # **Artistic-style-text-detection**
-
-
+* Paper(https://arxiv.org/pdf/2406.16307)
 ## **Guidelines of the Movie-Poster Dataset**
 ### Summarize
 We collected 1,500 movie posters featuring various artistic-style titles to address the current market’s lack of artistic-style text data. It contains 1500 images, of which 1100
@@ -30,7 +29,7 @@ Movie-Poster/
 The Movie-Poster is available at [Movie-Poster](https://drive.google.com/file/d/1anlWPsCX-6aYhUDqC33SXRufcpPpjLE2/view?usp=drive_link).
 
 ### Visualization
-<img src="https://github.com/biedaxiaohua/Artistic-style-text-detection/blob/main/visualization1.png" width="50%"/>
+<img src="https://github.com/biedaxiaohua/Artistic-style-text-detection/blob/main/visualization1.png" width="80%"/>
 
 
 
