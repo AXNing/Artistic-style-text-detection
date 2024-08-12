@@ -8,7 +8,7 @@ are in the training set and 400 in the testing set.
 ### Advantages
 ### Framework
 
-'''
+```
 Movie-Poster/
 │
 ├── Train/
@@ -18,10 +18,7 @@ Movie-Poster/
 └── Test/
     ├── img/
     └── gt/
-
-
-'''
-
+```
 
 
 
