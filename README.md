@@ -32,6 +32,7 @@ The Movie-Poster is available at [Movie-Poster](https://drive.google.com/file/d/
 <img src="https://github.com/biedaxiaohua/Artistic-style-text-detection/blob/main/visualization1.png" width="80%"/>
 
 
+### Test Visualization
+The visualization of the test results can be found [here](https://drive.google.com/drive/folders/1LBwfm90an2GhuMhf-aA3ImsC_WylRxop?usp=drive_link).
 
-The code will come soon!
 
